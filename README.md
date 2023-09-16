@@ -1,5 +1,6 @@
 # crud-angular-spring
-Curso para cosntrução de um CRUD com Angular e SpringBoot
+
+Curso para construção de um CRUD com Angular e SpringBoot
 
 Instalando o angular material : ng add @angular/material
 Incluindo algum novo módulo: ng g m <nome do módulo> --routing
