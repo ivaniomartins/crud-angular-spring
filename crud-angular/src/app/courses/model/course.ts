@@ -3,5 +3,4 @@ _id: string;
 name: string;
 category: string;
 
-
 }
